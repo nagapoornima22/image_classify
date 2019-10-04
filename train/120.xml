@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>120.jpg</filename>
+	<path>D:\pycharm\pycharmprojects\image_classification\images\train\120.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>79</ymin>
+			<xmax>487</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>
