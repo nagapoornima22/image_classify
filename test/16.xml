@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>16.jpg</filename>
+	<path>D:\pycharm\pycharmprojects\image_classification\images\test\16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>275</ymin>
+			<xmax>279</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>
